@@ -4,3 +4,4 @@ This folder includes gitlab branch source plugin settings (e.g. if you want to a
 
 ## How to use the script
 
+You need to change three variables to your desired values
