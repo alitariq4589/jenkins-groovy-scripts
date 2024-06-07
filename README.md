@@ -1,5 +1,7 @@
 # jenkins-groovy-scripts
-This repo includes the Groovy scripts which can be used in the Jenkins Script console for managing specific settings in Jenkins. 
+
+This repo includes the Groovy scripts which can be used in the Jenkins Script console for managing specific settings in Jenkins.
+
 I will also add Python scripts that will use the requests library to submit the Groovy scripts to the server.
 
 ## Why do you need Groovy scripts to change Jenkins settings?
@@ -27,4 +29,4 @@ Contributors are welcome to add any new scripts which they may find useful
 
 ## References
 
-https://javadoc.jenkins.io/
+<https://javadoc.jenkins.io/>
