@@ -6,7 +6,7 @@ import jenkins.model.Jenkins
 def gitlabServerName = 'my-gitlab-server'
 def gitlabServerUrl = 'https://gitlab.example.com'
 def credentialsId = 'your-credentials-id'           // Personal Access token from gitlab
-def secretTokenId = ''          // This is optional and you may not need it
+// def secretTokenId = 'your-secret-token'          // This is optional and you may not need it
 
 // Get the GitLabServers singleton
 def gitLabServers = GitLabServers.get()
