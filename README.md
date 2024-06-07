@@ -19,6 +19,8 @@ You will be able to change the Jenkins settings by submitting these Groovy scrip
 
 Each folder of the repository includes groovy script(s) and documentation about how to use it. This will include a JSON file which will include the Jenkins URL, Jenkins Username, and Jenkins password settings of your instance. You just have to change the JSON file and any desired settings in the Groovy script, then you will be able to submit the script as a Python request.
 
+The script `submit.py` include python code to submit the groovy script in Jenkins instance. You have to add username, password, url of the jenkins instance and path to Groovy script and just run the script with `python3 submit_script.py`.
+
 ## Contribute
 
 Contributors are welcome to add any new scripts which they may find useful
