@@ -22,3 +22,7 @@ Each folder of the repository will include groovy script(s) (and possibly a Pyth
 ## Contribute
 
 Contributors are welcome to add any new scripts which they may find useful
+
+## References
+
+https://javadoc.jenkins.io/
