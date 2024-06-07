@@ -3,7 +3,7 @@ import io.jenkins.plugins.gitlabserverconfig.servers.GitLabServer
 import jenkins.model.Jenkins
 
 // Replace the following
-def gitlabServerName = 'my-gitlab-server'
+def gitlabServerName = 'my-gitlab-server-name'
 def gitlabServerUrl = 'https://gitlab.example.com'
 def credentialsId = 'your-credentials-id'           // Personal Access token from gitlab
 // def secretTokenId = 'your-secret-token'          // This is optional and you may not need it
